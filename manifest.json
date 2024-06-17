@@ -9,14 +9,14 @@
     "storage"
   ],
   "icons": {
-    "48": "48.png",
-    "96": "96.png"
+    "48": "/Pictures/48.png",
+    "96": "/Pictures/96.png"
   },
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "48": "48.png",
-      "96": "96.png"
+      "48": "/Pictures/48.png",
+      "96": "/Pictures/96.png"
     }
   },
   "background": {
